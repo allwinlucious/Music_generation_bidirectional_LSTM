@@ -1,5 +1,8 @@
 # Music_generation_bidirectional_LSTM
-https://www.br.de/radio/br-heimat/sendungen/blasmusik/250-geburtstag-ludwig-van-beethoven-blaeser-100.html
+
+![ludwig-van-beethoven-148~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135](https://user-images.githubusercontent.com/15308488/189435694-1529686a-4b8d-40d6-ac8f-add21c3df382.jpg)
+
+
 this was just trained using 29 midi files from beethovens compositions. A better result could be achieved using a larger dataset.
 
 Generating new_notes.ipynb notebook can be used to play around with the model , generating new notes.
