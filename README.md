@@ -1,5 +1,5 @@
 # Music_generation_bidirectional_LSTM
-this was just trained using 29 midi files from beethovens compositions. A better result could be achieved using a better dataset.
+this was just trained using 29 midi files from beethovens compositions. A better result could be achieved using a larger dataset.
 
 Generating new_notes.ipynb notebook can be used to play around with the model , generating new notes.
 Music gen training.ipynb notebook can be used to understand the whole project. (creation of dataset, preprocessing, model creation, etc)
