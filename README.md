@@ -5,6 +5,8 @@ Generating new_notes.ipynb notebook can be used to play around with the model , 
 Music gen training.ipynb notebook can be used to understand the whole project. (creation of dataset, preprocessing, model creation, etc)
 
 Some sample generated outputs are below: 
+
+
 https://user-images.githubusercontent.com/15308488/189434416-cb99a801-94ee-456f-a695-a117b5269fe6.mp4
 
 
